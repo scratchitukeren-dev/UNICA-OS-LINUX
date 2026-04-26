@@ -28,7 +28,7 @@ Follow these steps:
 3.📂 Go to the Unica directory: cd [path to unica shell file]  
 4.⚡ Run it: sh [file-name].sh  
 5.💥 BOOM! You have Unica running on your Android!  
-[!⚠️ IMPORTANT!!!]
+> [!IMPORTANT]
 After Unica is successfully running, YOU NEED TO KNOW:  
 ✍️ You can change the user by editing the user variable on osmain.sh.  
 🛡️ Unica is trademarked by @scratchitukeren-dev.  
