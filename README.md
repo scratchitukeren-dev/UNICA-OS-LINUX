@@ -10,25 +10,25 @@ You can:
 # 🚀 How to run UNICA?
 ## 🐧 Run on Linux:
 You need:  
-🖥️ Linux Terminal  
-📄 Unica shell file  
+1.🖥️ Linux Terminal  
+2.📄 Unica shell file  
 Follow these steps:  
-📥 Download the Unica shell file.  
-💻 Open your terminal.  
-📂 Go to the Unica directory: cd [path to unica shell file]  
-⚡ Run it: sh [file-name].sh  
-💥 BOOM! You have Unica running on your Linux!  
+1.📥 Download the Unica shell file.  
+2.💻 Open your terminal.  
+3.📂 Go to the Unica directory: cd [path to unica shell file]  
+4.⚡ Run it: sh [file-name].sh  
+5.💥 BOOM! You have Unica running on your Linux!  
 ## 🤖 Run on Android:
 You need:  
-📱 Linux terminal (Use Termux or TermOne Plus)  
-📄 Unica shell file  
+1.📱 Linux terminal (Use Termux or TermOne Plus)  
+2.📄 Unica shell file  
 Follow these steps:  
-📥 Download the Unica shell file.  
-🔓 Open Termux or TermOne.  
-📂 Go to the Unica directory: cd [path to unica shell file]  
-⚡ Run it: sh [file-name].sh  
-💥 BOOM! You have Unica running on your Android!  
-# ⚠️ IMPORTANT!!!
+1.📥 Download the Unica shell file.  
+2.🔓 Open Termux or TermOne.  
+3.📂 Go to the Unica directory: cd [path to unica shell file]  
+4.⚡ Run it: sh [file-name].sh  
+5.💥 BOOM! You have Unica running on your Android!  
+[!⚠️ IMPORTANT!!!]
 After Unica is successfully running, YOU NEED TO KNOW:  
 ✍️ You can change the user by editing the user variable on osmain.sh.  
 🛡️ Unica is trademarked by @scratchitukeren-dev.  
