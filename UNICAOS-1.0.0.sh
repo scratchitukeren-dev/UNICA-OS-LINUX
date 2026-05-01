@@ -22,7 +22,7 @@ while true; do
 
     case $cmd in
         "cmdlist") echo cleand = Clean your display   uver = Unica version   uexit = Exit unica   dir = Show path   hello = Show Hello world! ;;
-        "cleand")  ;;
+        "cleand") clear ;;
         "uver") echo UNICA v1.0.0 ;;
         "uexit") break ;;
         "dir") pwd ;;
